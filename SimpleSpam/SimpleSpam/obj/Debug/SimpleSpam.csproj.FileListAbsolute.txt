@@ -1,0 +1,9 @@
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\bin\Debug\SimpleSpam.exe.config
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\bin\Debug\SimpleSpam.exe
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\bin\Debug\SimpleSpam.pdb
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\obj\Debug\SimpleSpam.csprojResolveAssemblyReference.cache
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\obj\Debug\SimpleSpam.Form1.resources
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\obj\Debug\SimpleSpam.Properties.Resources.resources
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\obj\Debug\SimpleSpam.csproj.GenerateResource.Cache
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\obj\Debug\SimpleSpam.exe
+c:\users\m1406_000\documents\visual studio 2015\Projects\SimpleSpam\SimpleSpam\obj\Debug\SimpleSpam.pdb
