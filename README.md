@@ -1,0 +1,2 @@
+# SimpleSpam
+A simple spammer:)
